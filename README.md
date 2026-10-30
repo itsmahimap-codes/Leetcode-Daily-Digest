@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Hash Table
@@ -46,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
