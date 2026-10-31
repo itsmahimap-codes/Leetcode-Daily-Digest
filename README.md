@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Divide and Conquer
@@ -74,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
