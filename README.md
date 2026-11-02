@@ -17,6 +17,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,4 +80,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
