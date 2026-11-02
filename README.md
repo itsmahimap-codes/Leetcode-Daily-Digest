@@ -18,6 +18,7 @@
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -81,8 +82,14 @@
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
