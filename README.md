@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -112,4 +113,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
