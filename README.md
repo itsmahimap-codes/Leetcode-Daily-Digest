@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -51,6 +52,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -126,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
