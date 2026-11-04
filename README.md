@@ -7,6 +7,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -86,6 +88,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
@@ -115,6 +118,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
@@ -139,4 +143,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1143-longest-common-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
