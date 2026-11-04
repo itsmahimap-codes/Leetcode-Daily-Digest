@@ -89,6 +89,7 @@
 | [0205-isomorphic-strings](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0567-permutation-in-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [0213-house-robber-ii](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0322-coin-change/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
