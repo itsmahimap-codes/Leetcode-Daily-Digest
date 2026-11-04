@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0039-combination-sum/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0136-single-number](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0136-single-number/) | Easy |
@@ -155,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0139-word-break/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/itsmahimap-codes/Leetcode-Daily-Digest/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
